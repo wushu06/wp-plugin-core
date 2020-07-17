@@ -1,0 +1,17 @@
+{
+    "name": "noureddinelatreche/core",
+    "authors": [
+        {
+            "name": "nourlatreche",
+            "email": "nourwushu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HmuCore\\":"src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
